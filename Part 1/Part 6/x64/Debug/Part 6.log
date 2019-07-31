@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\gebruiker\Documents\Github\mandelbrot\Part 1\Part 6\main.cpp(121,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\gebruiker\Documents\Github\mandelbrot\Part 1\Part 6\main.cpp(251,25): warning C4244:  'argument': conversion from 'WPARAM' to 'int', possible loss of data
+  Part 6.vcxproj -> C:\Users\gebruiker\Documents\Github\mandelbrot\Part 1\x64\Debug\Project.exe
